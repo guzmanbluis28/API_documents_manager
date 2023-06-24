@@ -13,7 +13,7 @@ Instalación
     2. Navegue al directorio del proyecto en la terminal:
        cd API_documents_manage
        
-    3. Instale las dependencias de Composer en la terminal:
+    3. Instale las dependencias de Composer en la terminal: 
        composer install
        
     4. Configuración del entorno:
